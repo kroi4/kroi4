@@ -1,7 +1,7 @@
 # Hi there, I'm Roi 👋
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/b8c245e1-f41d-413a-8d2b-41b0f60b7d93" alt="banner" width="600"/>
+  <img src="me.png" alt="banner" width="600"/>
 </div>
 
 <br/>
